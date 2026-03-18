@@ -1,7 +1,10 @@
 # external requirements
-click
-Sphinx
-coverage
-awscli
-flake8
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
 python-dotenv>=0.5.1
+joblib
