@@ -143,7 +143,7 @@ def main():
     print("BEST MODEL")
     print("="*70)
     best = df_results.iloc[0]
-    print(f"\n🏆 {best['Model']}")
+    print(f"\nThe best model is: {best['Model']}")
     print(f"   Accuracy: {best['Accuracy']:.4f} ({best['Accuracy']*100:.2f}%)")
     print(f"   ROC-AUC:  {best['ROC-AUC']:.4f}")
     print(f"   F1-Score: {best['F1-Score']:.4f}")
