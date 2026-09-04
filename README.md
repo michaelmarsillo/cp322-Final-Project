@@ -1,7 +1,6 @@
 # Final Project for cp322 (Machine Learning)
 
 In the Winter 2026 semester.
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 ## Members
